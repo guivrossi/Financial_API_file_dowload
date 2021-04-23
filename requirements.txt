@@ -1,0 +1,4 @@
+requests
+pypdf2
+fitz
+PyMuPDF
